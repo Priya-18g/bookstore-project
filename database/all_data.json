@@ -1,0 +1,61 @@
+[{
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "price": 9.99,
+        "description": "A classic novel about teenage rebellion and alienation."
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "price": 7.99,
+        "description": "A gripping tale of racial injustice and childhood innocence in the American South."
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "price": 8.99,
+        "description": "A dystopian novel about totalitarianism, surveillance, and mind control."
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "price": 6.99,
+        "description": "A romantic novel that explores the issues of class, marriage, and social expectations."
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "price": 10.99,
+        "description": "A story of wealth, excess, and the American Dream during the Jazz Age."
+    },
+    {
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "price": 11.50,
+        "description": "An epic tale of obsession and revenge between a sailor and a giant white whale."
+    },
+    {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "price": 9.50,
+        "description": "A dystopian science fiction novel about a future where humanity is controlled through pleasure and conditioning."
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "price": 8.75,
+        "description": "A prelude to the Lord of the Rings trilogy, detailing the adventures of Bilbo Baggins."
+    },
+    {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "price": 12.99,
+        "description": "A historical novel set during the Napoleonic Wars, exploring the lives of Russian aristocracy."
+    },
+    {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "price": 9.00,
+        "description": "A psychological exploration of guilt, morality, and redemption."
+    }
+]

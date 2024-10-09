@@ -1,0 +1,4 @@
+fastapi
+pydantic
+motor  # for MongoDB async support
+uvicorn
