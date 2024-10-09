@@ -1,6 +1,6 @@
 from fastapi import APIRouter, HTTPException
-from app.controllers.book_controller import add_book, get_books, get_book_by_id, update_book, delete_book
-from app.models.book_model import Book
+from app.controllers.book_controllers import add_book, get_books, get_book_by_id, update_book, delete_book
+from app.models.book_models import Book
 
 router = APIRouter()
 
