@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 
 # Installation of Project 
-use npm install command of Frontend directory and you can run npm run dev command to host frontend
+use *npm install* command of Frontend directory and you can run *npm run dev* command to host frontend
