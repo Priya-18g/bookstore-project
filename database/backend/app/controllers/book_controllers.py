@@ -1,5 +1,5 @@
-from app.controllers.book_controllers import Book
-from app.routes.database import db
+from ..models.book_models import Book
+from ..routes.database import db
 from bson import ObjectId
 
 async def add_book(book: Book):
